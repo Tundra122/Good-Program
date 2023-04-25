@@ -1,0 +1,15 @@
+D:\Fail Visual\Program3.2\Program3.2\bin\Debug\net6.0\Program3.2.exe
+D:\Fail Visual\Program3.2\Program3.2\bin\Debug\net6.0\Program3.2.deps.json
+D:\Fail Visual\Program3.2\Program3.2\bin\Debug\net6.0\Program3.2.runtimeconfig.json
+D:\Fail Visual\Program3.2\Program3.2\bin\Debug\net6.0\Program3.2.dll
+D:\Fail Visual\Program3.2\Program3.2\bin\Debug\net6.0\Program3.2.pdb
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.csproj.AssemblyReference.cache
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.AssemblyInfoInputs.cache
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.AssemblyInfo.cs
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.csproj.CoreCompileInputs.cache
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.dll
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\refint\Program3.2.dll
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.pdb
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\Program3.2.genruntimeconfig.cache
+D:\Fail Visual\Program3.2\Program3.2\obj\Debug\net6.0\ref\Program3.2.dll
